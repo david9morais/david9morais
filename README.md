@@ -2,6 +2,6 @@
 
 ### 📊 Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=david9morais&theme=dark&show_icons=true&hide=stars,contribs&include_all_commits=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=david9morais&theme=dark&show_icons=true&hide=stars,contribs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david9morais&theme=dark&show_icons=true&layout=compact)
