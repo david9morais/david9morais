@@ -1,4 +1,4 @@
-<h1>Hey there! I'm David<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h1>
+<h1>Hey there! I'm David<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"></h1>
 
 ### 📊 Statistics
 
